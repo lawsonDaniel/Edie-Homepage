@@ -85,6 +85,6 @@ $ npm install
 
 ## Contact
 
-- Website [youtube.com/c/lawblaze](https://{your-web-site-link})
-- GitHub [@lawsonDaniel/Edie-Homepage](https://{github.com/your-usermame})
-- Twitter [@lawblaze4](https://{twitter.com/your-username})
+- Website [youtube.com/c/lawblaze](https://{youtube.com/c/lawblaze})
+- GitHub [@lawsonDaniel/Edie-Homepage](https://{github.com/lawsonDaniel})
+- Twitter [@lawblaze4](https://{twitter.com/lawblaz4})
