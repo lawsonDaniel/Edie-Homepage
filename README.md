@@ -41,18 +41,15 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- i would be posting the demo very soon so watch out
+- it was a fairly easy project which took me back to basics of core css
+- learned a lot about responsive designs 
+- used a lot of flexbox so if you are learning css i would recommend you take flexbox a little bit more serious or you can just learn bootstrap 
 
 ### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-<!-- 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/) -->
+-[HTML]()
+-[CSS]()
+-[javaScript]()
 -[Bootstrap]()
 
 ## Features
@@ -75,7 +72,7 @@ $ git clone https://github.com/lawsonDaniel/Edie-Homepage
 $ npm install
 
 # Run the app
-$ npm start
+  Open the home.html file in your browser
 ```
 
 ## Acknowledgements
