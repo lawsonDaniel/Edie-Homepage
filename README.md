@@ -30,8 +30,8 @@
   - [Built With](#HTML, CSS, javaScript and Bootstrap)
 - [Features](#features)
 - [How to use](#how-to-use)
-- [Contact](#lawblaze4@gmail.com)
-- [Acknowledgements](#lawblaze)
+- [Contact](#Contact)
+- [Acknowledgements](#Acknowledgements)
 
 <!-- OVERVIEW -->
 
